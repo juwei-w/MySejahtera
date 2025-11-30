@@ -49,7 +49,7 @@ MySejahtera/
 
 ## 🖼️ Screenshots
 
-<details open>
+<details close>
 <summary><strong>User Flow</strong></summary>
 
 **Main Page**  
@@ -75,7 +75,7 @@ MySejahtera/
 
 </details>
 
-<details open>
+<details close>
 <summary><strong>Admin Flow</strong></summary>
 
 **Admin Login**  

@@ -31,11 +31,65 @@ MySejahtera/
 ├── GROUP_INFO.txt              # Group member information
 ├── Group_10 Flowchart.drawio   # Architecture / flow diagrams (Draw.io)
 ├── Group_10 PDF.pdf            # Project report
+├── img/                        # Screenshots (GUI, user flows, admin functions)
+│   ├── login.png
+│   ├── signin.png
+│   ├── main.png
+│   ├── user-page.png
+│   ├── medical-update.png
+│   ├── view-info.png
+│   ├── view-appointment.png
+│   ├── admin-page.png
+│   ├── assign-appointment.png
+│   └── generate-list.png
 └── README.md                   # Project overview
 ```
 
 ---
 
+## 🖼️ Screenshots
+
+<details open>
+<summary><strong>User Flow</strong></summary>
+
+**Main Page**  
+![Main](img/main.png)
+
+**Login Page**  
+![Login](img/login.png)
+
+**Sign Up Page**  
+![Sign Up](img/signin.png)
+
+**User Console Menu**  
+![User Page](img/user-page.png)
+
+**Medical Risk Update Flow**  
+![Medical Update](img/medical-update.png)
+
+**View & Update Information**  
+![View Info](img/view-info.png)
+
+**View Appointment & RSVP**  
+![View Appointment](img/view-appointment.png)
+
+</details>
+
+<details open>
+<summary><strong>Admin Flow</strong></summary>
+
+**Admin Login**  
+![Admin Page](img/admin-page.png)
+
+**Assign Appointment**  
+![Assign Appointment](img/assign-appointment.png)
+
+**Generate / Sort User Lists**  
+![Generate List](img/generate-list.png)
+
+</details>
+
+---
 ## ✨ Features
 **User-Oriented**
 - Registration (Sign Up) with validation (non-empty checks)
